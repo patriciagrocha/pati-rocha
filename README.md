@@ -1,6 +1,6 @@
 ### Olá! Sou a Pati Rocha 👋
 <div >
-  <a href="https://github.com/pati-rocha">
+  <a href="https://github.com/patriciagrocha">
   <img  width= "50%" src="https://github-readme-stats.vercel.app/api?username=pati-rocha&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="168em" width= "45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pati-rocha&layout=compact&langs_count=7&theme=radical"/> 
 </div>
