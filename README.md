@@ -4,9 +4,8 @@
   <img  width= "50%" src="https://github-readme-stats.vercel.app/api?username=patriciagrocha&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="168em" width= "45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciagrocha&layout=compact&langs_count=7&theme=radical"/> 
 </div>
-
+<!--
 ### Tecnologias
-
 <div style="display: inline_block">
   <img align="center" alt="icon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -15,6 +14,8 @@
   <img align="center" alt="icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"> 
 </div>
+-->
+
 
 ##
 
